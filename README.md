@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Soligup/Soligup.github.io/blob/main/4a4b8c28e82d2f811ff9bca975fefc62.jpeg?raw=true" alt="Dominique van der Veer" width="400" height="300" style="border-radius: 50%;">
+  <img src="https://github.com/Soligup/Soligup.github.io/blob/main/4a4b8c28e82d2f811ff9bca975fefc62.jpeg?raw=true" alt="Dominique van der Veer" width="250" height="300" style="border-radius: 50%;">
 </div>
 
 <h1 align="center">Dominique van der Veer</h1>
