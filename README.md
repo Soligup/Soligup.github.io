@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/Soligup/Soligup.github.io/blob/main/4a4b8c28e82d2f811ff9bca975fefc62.jpeg?raw=true" alt="Dominique van der Veer" width="200" height="200" style="border-radius: 50%;">
+</div>
+
 <h1 align="center">Dominique van der Veer</h1>
 <h3 align="center">Technical Specialist | Cloud & Security Expert</h3>
 <p align="center">
