@@ -13,16 +13,16 @@
 ---
 
 ## 👩‍💻 About Me
-I am a highly skilled **Technical Specialist** with a strong background in **cloud computing, cybersecurity, and IT infrastructure management**. With extensive experience in delivering Level 3 technical support, managing IT operations, and leading cloud migration projects, I am passionate about optimizing IT systems and enhancing security postures. I hold multiple certifications in **Microsoft Azure, M365, and Cybersecurity**, and I am committed to continuous learning and professional development.
+I am a highly skilled **Technical Specialist** with a strong background in **Cloud Computing and Cybersecurity **. I have extensive experience in delivering Level 3 technical support, managing IT operations, and contributing to cloud migration projects, I am passionate about optimizing IT systems and enhancing security postures. I hold multiple certifications in **Microsoft Azure, M365, and Cybersecurity**, and I am committed to continuous learning and professional development.
 
 ---
 
 ## 🛠️ Technical Skills
 - **Cloud Platforms:** Microsoft Azure, Microsoft 365, Intune, Azure Virtual Desktop (AVD), Nerdio  
-- **Security Tools:** Microsoft Defender, RSA Authentication, Mimecast, Trend Micro, Splunk  
-- **IT Management:** Active Directory, Windows Server, Windows 10/11, Citrix, PowerShell  
+- **Security Tools:** Microsoft Defender, RSA Authentication, Mimecast, Trend Micro, Splunk, Knowbe4  
+- **IT Management:** Active Directory, Windows Server, Windows 10/11, Citrix, PowerShell, SQL 
 - **Project Management:** ITIL processes, change control, service requests, capacity planning  
-- **Collaboration Tools:** Microsoft Teams, SharePoint, Exchange  
+- **Collaboration Tools:** Microsoft Teams, SharePoint, Exchange, Outlook 
 
 ---
 
