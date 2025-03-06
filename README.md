@@ -66,6 +66,6 @@ I am a highly skilled **Technical Specialist** with a strong background in **clo
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure">
   <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft 365">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="Microsoft Defender">
+  <img src="https://img.shields.io/badge/Microsoft_Defender-5391FE?style=for-the-badge&logo=Mircosoft Defender&logoColor=white" alt="Microsoft Defender">
   <img src="https://img.shields.io/badge/Cybersecurity-FF6C37?style=for-the-badge&logo=cybersecurity&logoColor=white" alt="Cybersecurity">
 </p>
