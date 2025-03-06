@@ -61,7 +61,8 @@ I am a highly skilled **Technical Specialist** with a strong background in **clo
 ### **Miscellaneous**  
 - AI-900: AI Fundamentals  
 - PL-900: Power Platforms Fundamentals  
-- TestOut Network Pro & Client Pro  
+- TestOut Network Pro & Client Pro
+  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure">
