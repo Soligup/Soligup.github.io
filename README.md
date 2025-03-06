@@ -29,7 +29,7 @@ I am a highly skilled **Technical Specialist** with a strong background in **clo
 ## 🚀 Projects
 
 ### **Personal Projects**  
--Setup File Integrity monitor script through PowerShell. Calculated hash value from target files
+- Setup File Integrity monitor script through PowerShell. Calculated hash value from target files
 ### **Work Projects**  
 - Implemented **Multi-Factor Authentication (MFA)**, **Conditional Access**, and **Privileged Identity Management (PIM)** policies in Microsoft 365.  
 - Designed and enforced **Data Loss Prevention (DLP)** policies for Exchange, Teams, and SharePoint.  
