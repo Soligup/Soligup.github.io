@@ -28,12 +28,12 @@ I am a highly skilled **Technical Specialist** with a strong background in **clo
 
 ## 🚀 Projects
 
-### **Security Enhancements**  
+### **Personal Projects**  
+
+### **Work Projects**  
 - Implemented **Multi-Factor Authentication (MFA)**, **Conditional Access**, and **Privileged Identity Management (PIM)** policies in Microsoft 365.  
 - Designed and enforced **Data Loss Prevention (DLP)** policies for Exchange, Teams, and SharePoint.  
 - Set up **DMARC and DKIM authentication** for Azure clients and integrated RSA authentication within Citrix.  
-
-### **Cloud Migrations**  
 - Migrated on-premises devices to a **hybrid Intune/Microsoft Endpoint model** using Group Policy synchronization.  
 - Supported application deployment via Intune and migrated AVD clients into **Nerdio** for monitoring and management.  
 - Created **PowerShell scripts** to generate monthly reports on M365 user activity and license consumption.  
