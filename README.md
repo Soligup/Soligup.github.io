@@ -29,14 +29,17 @@ I am a highly skilled **Technical Specialist** with a strong background in **clo
 ## 🚀 Projects
 
 ### **Personal Projects**  
-- Setup File Integrity monitor script through PowerShell. Calculated hash value from target files
+- Setup File Integrity monitor script through PowerShell. Calculated and stored hash value from target files. If target files were changed or modified, script would notify through red text.
+- Setup an Active Directory lab to incorporate a work enivornment. Used Kali Linux to perform a brute force attack on windows machines then used Splunk to confirm and query the information.
+- Configured Azure Sentinel (SIEM) whilst linking it to a virtual machine to function as a honeypot. Monitored real-time attacks and used a PowerShell script to retrieve the attackers' geolocation data and visualize it on the Azure  Sentinel map.
 ### **Work Projects**  
-- Implemented **Multi-Factor Authentication (MFA)**, **Conditional Access**, and **Privileged Identity Management (PIM)** policies in Microsoft 365.  
-- Designed and enforced **Data Loss Prevention (DLP)** policies for Exchange, Teams, and SharePoint.  
-- Set up **DMARC and DKIM authentication** for Azure clients and integrated RSA authentication within Citrix.  
-- Migrated on-premises devices to a **hybrid Intune/Microsoft Endpoint model** using Group Policy synchronization.  
-- Supported application deployment via Intune and migrated AVD clients into **Nerdio** for monitoring and management.  
-- Created **PowerShell scripts** to generate monthly reports on M365 user activity and license consumption.  
+- Migrated thousands of on-premises devices to a hybrid Intune/Microsoft Endpoint model using Group Policy synchronization.  
+- Supported application deployment through Intune/Endpoint and migrated AVD clients into Nerdio to be monitored and managed. 
+- Designed and enforced Data Loss Prevention (DLP) policies to safeguard sensitive data within Exchange, Teams and SharePoint.
+- Created Teams structures via Microsoft 365 Admin to represent departmental and organizational roles and constructed SharePoint libraries for enhanced collaboration.
+- Enhanced organizations' secure scores in Microsoft 365 by implementing Multi-Factor Authentication (MFA), Conditional Access, and Privileged Identity Management (PIM) policies. Applied role-based and least-privilege access controls.
+- Established daily security checks within Microsoft 365 to ensure device availability, compliance, and threat detection.
+- Created Exchange Security policies as well as setup DMARC and DKIM authentication for newly migrated Azure clients.
 
 ---
 
