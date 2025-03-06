@@ -13,7 +13,7 @@
 ---
 
 ## 👩‍💻 About Me
-I am a highly skilled **Technical Specialist** with a strong background in **Cloud Computing and Cybersecurity **. I have extensive experience in delivering Level 3 technical support, managing IT operations, and contributing to cloud migration projects, I am passionate about optimizing IT systems and enhancing security postures. I hold multiple certifications in **Microsoft Azure, M365, and Cybersecurity**, and I am committed to continuous learning and professional development.
+I am a highly skilled Technical Specialist with a strong background in Cloud Computing and Cybersecurity. I have extensive experience in delivering Level 3 technical support, managing IT operations, and contributing to cloud migration projects, I am passionate about optimizing IT systems and enhancing security postures. I hold multiple certifications in Microsoft Azure, M365, and Cybersecurity, and I am committed to continuous learning and professional development.
 
 ---
 
