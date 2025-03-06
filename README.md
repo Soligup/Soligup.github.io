@@ -26,28 +26,6 @@ I am a highly skilled **Technical Specialist** with a strong background in **clo
 
 ---
 
-## 💼 Professional Experience
-
-### **Technical Specialist**  
-**CCL / Spark NZ** | 2022 – Present  
-- Delivered **Level 3 technical support** and services to clients using ITIL-aligned processes.  
-- Managed IT operations, including **change control, user administration, and security patching**.  
-- Led **cloud migration projects** and system integrations, ensuring seamless transitions.  
-- Acted as the escalation point for incidents and requests, creating documentation for the Service Desk team.  
-
-### **Service Desk Engineer**  
-**CCL** | 2021 – 2022  
-- Provided **frontline technical support**, resolving user inquiries and issues efficiently.  
-- Streamlined technical processes and improved documentation to enhance service delivery.  
-- Collaborated with escalation teams to resolve critical incidents in line with SLAs.  
-
-### **Customer Support Technician**  
-**Telnet** | 2018  
-- Managed customer inquiries via calls and emails, ensuring timely resolution.  
-- Conducted advanced troubleshooting and documented solutions in detailed logs.  
-
----
-
 ## 🚀 Projects
 
 ### **Security Enhancements**  
@@ -84,29 +62,6 @@ I am a highly skilled **Technical Specialist** with a strong background in **clo
 - AI-900: AI Fundamentals  
 - PL-900: Power Platforms Fundamentals  
 - TestOut Network Pro & Client Pro  
-
----
-
-## 🎓 Education
-**Techtorium Institute**  
-- **Level 7 Cloud Computing** (2020-2021)  
-- **Level 6 Systems Administration** (2019-2020)  
-- **Level 5 PC Support** (2015-2016)  
-- **Excellence Award** for top academic performance in the New Zealand Diploma in Systems Administration (2020)  
-
----
-
-## 🌟 GitHub Highlights
-- **PowerShell Scripts:** Automated reporting and monitoring for M365 environments.  
-- **Security Policies:** Implemented and documented MFA, Conditional Access, and DLP policies.  
-- **Cloud Migration Tools:** Developed processes for hybrid Intune/Microsoft Endpoint deployments.  
-
----
-
-## 📞 References
-Available upon request.  
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure">
