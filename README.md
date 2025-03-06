@@ -51,7 +51,7 @@ I am a highly skilled **Technical Specialist** with a strong background in **Clo
 
 ---
 
-  ## 🚀 Projects
+## 🚀 Projects
 
 ### **Personal Projects**  
 - Setup File Integrity monitor script through PowerShell. Calculated and stored hash value from target files. If target files were changed or modified, script would notify through red text.
