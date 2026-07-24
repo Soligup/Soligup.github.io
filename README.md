@@ -13,7 +13,7 @@
 ---
 
 ## 👩‍💻 About Me
-I am a highly skilled Technical Specialist with a strong background in Cloud Computing and Cybersecurity. I have extensive experience in delivering Level 3 technical support, managing IT operations, and contributing to cloud migration projects, I am passionate about optimizing IT systems and enhancing security postures. I hold multiple certifications in Microsoft Azure, M365, and Cybersecurity, and I am committed to continuous learning and professional development.
+I am a highly skilled IT Specialist with a strong background in Cloud Computing and Cybersecurity. I have extensive experience in delivering Level 3 technical support, managing IT operations, and contributing to cloud migration projects, I am passionate about optimizing IT systems and enhancing security postures. I hold multiple certifications in Microsoft Azure, M365, and Cybersecurity, and I am committed to continuous learning and professional development.
 
 ---
 
@@ -22,7 +22,8 @@ I am a highly skilled Technical Specialist with a strong background in Cloud Com
 - **Security Tools:** Microsoft Defender, RSA Authentication, Mimecast, Trend Micro, Splunk, Knowbe4  
 - **IT Management:** Active Directory, Windows Server, Windows 10/11, Citrix, PowerShell, SQL 
 - **Project Management:** ITIL processes, change control, service requests, capacity planning  
-- **Collaboration Tools:** Microsoft Teams, SharePoint, Exchange, Outlook 
+- **Collaboration Tools:** Microsoft Teams, SharePoint, Exchange, Outlook
+- **Ticket Systemss:** Autotask, Connectwise, ServiceNow, Zendesk 
 
 ---
 
@@ -58,7 +59,9 @@ I am a highly skilled Technical Specialist with a strong background in Cloud Com
 - Setup an Active Directory lab to incorporate a work enivornment. Used Kali Linux to perform a brute force attack on windows machines then used Splunk to confirm and query the information.
 - Configured Azure Sentinel (SIEM) whilst linking it to a virtual machine to function as a honeypot. Monitored real-time attacks and used a PowerShell script to retrieve the attackers' geolocation data and visualize it on the Azure  Sentinel map.
 ### **Work Projects**  
-- Migrated thousands of on-premises devices to a hybrid Intune/Microsoft Endpoint model using Group Policy synchronization.  
+- Fully integrated HR systems into Active Directory and Azure to automate onboarding and offboarding user tasks automatically as well as dynamically assign license and group permissions. 
+- Migrated thousands of on-premises devices to a hybrid Intune/Microsoft Endpoint model using Group Policy synchronization.
+- Created fully automated application deployments through Intune including the Microsoft suite, VPN software, Remote Desktop connections, PDF editors, and browsers. 
 - Supported application deployment through Intune/Endpoint and migrated AVD clients into Nerdio to be monitored and managed. 
 - Designed and enforced Data Loss Prevention (DLP) policies to safeguard sensitive data within Exchange, Teams and SharePoint.
 - Created Teams structures via Microsoft 365 Admin to represent departmental and organizational roles and constructed SharePoint libraries for enhanced collaboration.
