@@ -23,7 +23,7 @@ I am a highly skilled IT Specialist with a strong background in Cloud Computing 
 - **IT Management:** Active Directory, Windows Server, Windows 10/11, Citrix, PowerShell, SQL 
 - **Project Management:** ITIL processes, change control, service requests, capacity planning  
 - **Collaboration Tools:** Microsoft Teams, SharePoint, Exchange, Outlook
-- **Ticket Systemss:** Autotask, Connectwise, ServiceNow, Zendesk 
+- **Ticket Systems:** Autotask, Connectwise, ServiceNow, Zendesk 
 
 ---
 
